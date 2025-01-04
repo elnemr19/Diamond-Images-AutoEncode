@@ -9,11 +9,11 @@ The goal of this project is to develop an **AutoEncoder** model that can accurat
 
 
 ## 2. Table of Contents
-[Dataset]()
+[Dataset](https://github.com/elnemr19/Diamond-Images-AutoEncode/tree/main?tab=readme-ov-file#3-dataset)
 
-[Pre-processing]()
+[Pre-processing](https://github.com/elnemr19/Diamond-Images-AutoEncode/tree/main?tab=readme-ov-file#4-pre-processing)
 
-[Model Overview]()
+[Model Overview](https://github.com/elnemr19/Diamond-Images-AutoEncode/tree/main?tab=readme-ov-file#5-model-overview)
 
 [Results]()
 
@@ -36,8 +36,7 @@ in this phas i resize my image to 244 x 244 , and do normalization on image by d
 
 
 
-
-## 5. Results
+## 6. Results
 
 
 
