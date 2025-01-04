@@ -11,11 +11,11 @@ This project aims to develop an **AutoEncoder** model to generate images accurat
 ## 2. Table of Contents
 [Dataset](https://github.com/elnemr19/Diamond-Images-AutoEncode/tree/main?tab=readme-ov-file#3-dataset)
 
-[Pre-processing](https://github.com/elnemr19/Diamond-Images-AutoEncode/tree/main?tab=readme-ov-file#4-pre-processing)
+[Pre-processing](https://github.com/elnemr19/Diamond-Images-AutoEncode/blob/main/README.md#4-pre-processing)
 
-[Model Overview](https://github.com/elnemr19/Diamond-Images-AutoEncode/tree/main?tab=readme-ov-file#5-model-overview)
+[Model Architecture](https://github.com/elnemr19/Diamond-Images-AutoEncode/blob/main/README.md#5--model-architecture)
 
-[Results](https://github.com/elnemr19/Diamond-Images-AutoEncode/blob/main/README.md#6-results)
+[Results](https://github.com/elnemr19/Diamond-Images-AutoEncode/blob/main/README.md#6--results)
 
 
 ## 3. Dataset
